@@ -35,7 +35,7 @@ public class HelloWorld {
         	System.out.println("Value " + c + " is between " + a + " and " + b ); 
         }
         
-    
+        input.close();
 		
 		
 	}
